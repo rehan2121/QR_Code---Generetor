@@ -4,7 +4,7 @@ import png
 import random
 
 # Give The Website Name Or Whatever You Wan't To Make The QR code
-qr_code_link = "https://www.youtube.com"
+qr_code_link = "https://www.instagram.com/rehanpathan8351/"
 
 # Generate The qr_code
 generating_qr_code = pyqrcode.create(qr_code_link)
