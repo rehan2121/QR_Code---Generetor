@@ -19,7 +19,7 @@ A simple and handy Python script to generate custom QR codes for any link or tex
 ## 🧠 How It Works
 
 1. The script asks for the filename (text only, no numbers).
-2. It creates a QR code for a predefined link (`https://www.youtube.com`).
+2. It creates a QR code for a predefined link (`https://www.instagram.com/rehanpathan8351/`).
 3. The file is saved with a random number attached to the name to make it unique.
 
 ---
